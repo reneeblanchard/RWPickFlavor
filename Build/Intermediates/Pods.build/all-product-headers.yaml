@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/reneeblanchard/Documents/Heathrow/Cocoapod/RWPickFlavor/Build/Products/Debug-iphonesimulator/Pods_RWPickFlavor.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-RWPickFlavor-umbrella.h",
+          'external-contents': "/Users/reneeblanchard/Documents/Heathrow/Cocoapod/RWPickFlavor/Pods/Target Support Files/Pods-RWPickFlavor/Pods-RWPickFlavor-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_RWPickFlavor-Swift.h",
+          'external-contents': "/Users/reneeblanchard/Documents/Heathrow/Cocoapod/RWPickFlavor/Build/Products/Debug-iphonesimulator/Pods_RWPickFlavor.framework/Headers/Pods_RWPickFlavor-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/reneeblanchard/Documents/Heathrow/Cocoapod/RWPickFlavor/Build/Products/Debug-iphonesimulator/Pods_RWPickFlavor.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/reneeblanchard/Documents/Heathrow/Cocoapod/RWPickFlavor/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-RWPickFlavor.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
